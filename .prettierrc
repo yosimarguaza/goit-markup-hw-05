@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "bracketPairColorizer.depreciation-notice": false,
+  "[json]": {
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  },
+  "files.autoSave": "onFocusChange",
+  "tabnine.experimentalAutoImports": true,
+  "editor.formatOnSave": true
+}
